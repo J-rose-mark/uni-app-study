@@ -1,0 +1,13 @@
+# 依赖包（最大的文件，必须忽略）
+/node_modules
+
+# HBuilderX 编辑器配置
+/.hbuilderx
+
+# UniApp 编译打包产物
+/unpackage
+/dist
+
+# 系统缓存文件
+.DS_Store
+*.log" " 
